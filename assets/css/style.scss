@@ -1,23 +1,25 @@
 ---
 ---
 
-/* Accent Color */
-a {
-  color: #1a4fa3;
+@import "minima";
+
+/* ===== Custom Brand Styling ===== */
+
+/* Soft background */
+body {
+  background-color: #f4f6f9;
 }
 
-a:hover {
-  color: #0d2e6b;
-}
-
-/* Header Styling */
+/* Header styling */
 .site-header {
-  background-color: #0d1b2a;
-  border-bottom: 3px solid #1a4fa3;
+  background-color: #0f172a;
+  border-bottom: 3px solid #2563eb;
 }
 
-.site-title, .site-title:visited {
+.site-title,
+.site-title:visited {
   color: #ffffff !important;
+  font-weight: 600;
 }
 
 .site-nav a {
@@ -25,23 +27,22 @@ a:hover {
 }
 
 .site-nav a:hover {
-  color: #90caf9 !important;
+  color: #93c5fd !important;
 }
 
-/* Page Title */
-.page-heading {
-  color: #0d1b2a;
+/* Link color */
+a {
+  color: #2563eb;
 }
 
-/* Body Background */
-body {
-  background-color: #f8f9fb;
+a:hover {
+  color: #1e40af;
 }
 
-/* Content Card Feel */
+/* Content card feel */
 .page-content {
   background: #ffffff;
   padding: 40px;
-  border-radius: 6px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
