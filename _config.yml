@@ -1,0 +1,11 @@
+title: Ananth Narayanan
+description: Reliability Leadership in the Era of AI
+theme: minima
+
+header_pages:
+  - about.md
+  - publications.md
+  - patents.md
+  - speaking.md
+  - technical-engagement.md
+  - contact.md
