@@ -3,6 +3,10 @@ layout: page
 title: "Contact"
 ---
 
-Email: your@email.com
+I appreciate your interest.
 
-[LinkedIn](https://www.linkedin.com/in/ananthakrishnan-n-1800b18/)
+If you would like to connect regarding reliability engineering, statistical modeling, or technical speaking, please reach out via LinkedIn.
+
+I value meaningful technical dialogue and professional exchange.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/ananthakrishnan-n-1800b18/)
