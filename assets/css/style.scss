@@ -1,0 +1,47 @@
+---
+---
+
+/* Accent Color */
+a {
+  color: #1a4fa3;
+}
+
+a:hover {
+  color: #0d2e6b;
+}
+
+/* Header Styling */
+.site-header {
+  background-color: #0d1b2a;
+  border-bottom: 3px solid #1a4fa3;
+}
+
+.site-title, .site-title:visited {
+  color: #ffffff !important;
+}
+
+.site-nav a {
+  color: #ffffff !important;
+}
+
+.site-nav a:hover {
+  color: #90caf9 !important;
+}
+
+/* Page Title */
+.page-heading {
+  color: #0d1b2a;
+}
+
+/* Body Background */
+body {
+  background-color: #f8f9fb;
+}
+
+/* Content Card Feel */
+.page-content {
+  background: #ffffff;
+  padding: 40px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
