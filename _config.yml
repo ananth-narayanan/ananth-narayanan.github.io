@@ -7,7 +7,6 @@ sass:
   style: compressed
 
 header_pages:
-  - about.md
   - publications.md
   - patents.md
   - speaking.md
