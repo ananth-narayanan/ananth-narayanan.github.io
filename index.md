@@ -6,12 +6,10 @@ title: "Reliability, Modeling, and Statistical Thinking in the Era of AI"
 <div style="display: flex; align-items: center; gap: 50px; flex-wrap: wrap; margin-top: 40px;">
 
 <div>
-<img src="/AN_headshot.jpg" width="240" style="border-radius: 8px;">
+<img src="/headshot.jpg" width="240" style="border-radius: 8px;">
 </div>
 
 <div style="flex: 1; min-width: 280px;">
-
-## Reliability, Modeling, and Statistical Thinking in the Era of AI
 
 I serve as Principal for Worldwide Hardware Reliability, working at the intersection of reliability engineering, statistical modeling, and large-scale AI infrastructure.
 
@@ -24,17 +22,3 @@ Reliability is not only about preventing failure. It is about modeling uncertain
 </div>
 
 </div>
-
----
-
-### Areas of Focus
-
-- Reliability modeling under uncertainty  
-- Statistical methods in infrastructure risk  
-- Heavy tail failure behavior  
-- Field data interpretation at scale  
-- Systems-level reliability thinking  
-
----
-
-### Latest Writing
