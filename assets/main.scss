@@ -1,1 +1,45 @@
+---
+---
 
+@import "minima";
+
+/* Soft background */
+body {
+  background-color: #f4f6f9;
+}
+
+/* Header styling */
+.site-header {
+  background-color: #0f172a;
+  border-bottom: 3px solid #2563eb;
+}
+
+.site-title,
+.site-title:visited {
+  color: #ffffff !important;
+}
+
+.site-nav a {
+  color: #ffffff !important;
+}
+
+.site-nav a:hover {
+  color: #93c5fd !important;
+}
+
+/* Links */
+a {
+  color: #2563eb;
+}
+
+a:hover {
+  color: #1e40af;
+}
+
+/* Content container */
+.page-content {
+  background: #ffffff;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
