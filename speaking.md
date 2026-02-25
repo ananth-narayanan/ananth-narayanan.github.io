@@ -46,3 +46,13 @@ April 30, 2025 | 12:00 PM – 1:00 PM EST
 **Hobbs Engineering and Education Consulting**  
 March 12, 2025 | 12:00 PM – 3:00 PM  
 [Purchase on demand](https://hobbsengr.com/courses/how-to-add-machine-learning-based-a-b-testing-techniques-to-your-reliability-engineering-toolkit-by-dr-ananth-narayanan/)
+
+---
+
+## 2024
+
+### Hardware Reliability: Tools and Techniques  
+**Lenovo ISG Technology Academy (Internal Session)**  
+June 28, 2024  
+Attendance: 250+ global participants  
+Access restricted to Lenovo employees
