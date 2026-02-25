@@ -43,3 +43,20 @@ a:hover {
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
+
+/* ===== Mobile Navigation Fix ===== */
+@media screen and (max-width: 600px) {
+
+  .site-nav {
+    background-color: #0f172a !important;
+  }
+
+  .site-nav .page-link {
+    color: #ffffff !important;
+  }
+
+  .site-nav .page-link:hover {
+    color: #93c5fd !important;
+  }
+
+}
