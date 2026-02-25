@@ -1,15 +1,11 @@
 ---
 layout: home
-title: "Reliability, Modeling, and Statistical Thinking in the Era of AI"
+title: "Reliability, Modeling, and Engineering Leadership in the Era of AI"
 ---
 
-<div style="display: flex; align-items: center; gap: 50px; flex-wrap: wrap; margin-top: 40px;">
-
-<div>
-<img src="/AN_headshot.jpg" width="240" style="border-radius: 8px;">
+<div style="float: left; margin: 0 30px 20px 0;">
+  <img src="/headshot.jpg" width="260" style="border-radius: 8px;">
 </div>
-
-<div style="flex: 1; min-width: 280px;">
 
 Ananthakrishnan Narayanan, PhD, serves as Principal for Worldwide Hardware Reliability, leading global reliability strategy across complex hardware platforms and AI-scale infrastructure.
 
