@@ -12,3 +12,6 @@ header_pages:
   - patents.md
   - publications.md
   - contact.md
+
+plugins:
+  - jekyll-seo-tag
