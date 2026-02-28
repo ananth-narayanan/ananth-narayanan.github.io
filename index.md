@@ -15,7 +15,7 @@ Throughout his career, Ananth has built and led end-to-end reliability programs 
 
 He holds a PhD in Mechanical Engineering and applies a rigorous, engineering-first approach to reliability modeling and systems thinking. His current intellectual focus centers on reliability engineering in AI-scale infrastructure and the disciplined interpretation of uncertainty in complex environments.
 
-Ananth is an active contributor to the reliability engineering community. He serves as a voting member in IEEE standards development and has held leadership roles including technical chair, editor, and committee member in respected industry organizations.
+Ananth is an active contributor to the reliability engineering community. He serves as a voting member in IEEE 1413 Standards Committee working group and has held leadership roles including technical chair, editor, and committee member in respected industry organizations.
 
 In addition to his engineering leadership, he is a technical speaker and educator. He regularly delivers conference tutorials and invited talks on modern reliability modeling, uncertainty quantification, predictive analytics, and reliability leadership in complex systems.
 
